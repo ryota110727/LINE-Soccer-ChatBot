@@ -1,0 +1,42 @@
+{
+    "日本代表": {
+        "url":"https://www.soccer-king.jp/league/national-japan",
+        "href":"https://www.soccer-king.jp/news/japan/national/",
+        "s3-filename":"japan.csv"
+    },
+    "イングランド": {
+        "url":"https://www.soccer-king.jp/league/premier",
+        "href":"https://www.soccer-king.jp/news/world/eng/",
+        "s3-filename":"premiar.csv"
+    },
+    "スペイン": {
+        "url":"https://www.soccer-king.jp/league/laliga",
+        "href":"https://www.soccer-king.jp/news/world/esp/",
+        "s3-filename":"laliga.csv"
+    },
+    "ドイツ": {
+        "url":"https://www.soccer-king.jp/league/bundesliga",
+        "href":"https://www.soccer-king.jp/news/world/ger/",
+        "s3-filename":"bundesuliga.csv"
+    },
+    "イタリア": {
+        "url":"https://www.soccer-king.jp/league/seriea",
+        "href":"https://www.soccer-king.jp/news/world/ita/",
+        "s3-filename":"seriea.csv"
+    },
+    "cl": {
+        "url":"https://www.soccer-king.jp/league/cl",
+        "href":"https://www.soccer-king.jp/news/world/",
+        "s3-filename":"cl.csv"
+    },
+    "el": {
+        "url":"https://www.soccer-king.jp/league/el",
+        "href":"https://www.soccer-king.jp/news/world/",
+        "s3-filename":"el.csv"
+    },
+    "海外日本人":{
+        "url":"https://www.soccer-king.jp/league/japanese",
+        "href":"https://www.soccer-king.jp/news/world/",
+        "s3-filename":"japanese.csv"
+    }
+}

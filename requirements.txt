@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+line-bot-sdk
+pandas
+flask
+boto3
